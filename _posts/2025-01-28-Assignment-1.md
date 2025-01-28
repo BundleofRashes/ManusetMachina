@@ -38,16 +38,16 @@ layout: post
 <h3>I do not trust pockets so I always keep my car key in my bag.</h3>
 
 <h2>10. Iphone: <h2>
-I like texting people.
+<h3>I like texting people.</h3>
 
-11. Scrapbook:
-You never know when I would have the sudden urge to start scrapbooking.
+<h2>11. Scrapbook: </h2>
+<h3>You never know when I would have the sudden urge to start scrapbooking</h3>
 
-12. USB-C adapter:
-So my friends have no excuse not to send the digital camera photos.
+<h2>12. USB-C adapter:</h2>
+<h3>So my friends have no excuse not to send the digital camera photos.</h3>
   
-13. A keychain of pink thing driving:
-A friend gifted me this because it "Looks like me."
+<h2>13. A keychain of pink thing driving:<h2>
+<h3>A friend gifted me this because it "Looks like me."</h3>
 
 
 
