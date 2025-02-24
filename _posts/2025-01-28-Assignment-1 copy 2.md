@@ -1,4 +1,3 @@
-
 ---
 title: "Assignment #4 : Golden Age of Neolithic Revolution"
 layout: post
