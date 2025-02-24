@@ -4,13 +4,15 @@ layout: post
 ---
 
 <h2>Introduction to the Neolithic Revolution</h2>
+<img src="Map.jpg" alt="Map of the Neolithic Revolution">
 <p>The Neolithic Revolution, occurring approximately 10,000-4,500 BCE, marked humanity’s shift from nomadic hunting and gathering to settled agricultural societies. This period is often heralded as a "Golden Age" because it laid the foundations for modern civilization, enabling population growth, technological advancements, and the establishment of permanent communities. The revolution unfolded independently in multiple regions, including Mesopotamia, the Indus Valley, China, and Mesoamerica, involving various groups that gradually transitioned from foraging to farming.</p>
 
 <h2>Context: Before and After</h2>
 <p>Before the Neolithic Revolution, humans lived as hunter-gatherers, relying on wild resources for sustenance. Small, mobile bands roamed landscapes, following seasonal food sources. In contrast, the post-Neolithic period saw the rise of increasingly complex societies, including early states, written languages, and trade networks that facilitated cultural and technological diffusion.</p>
 
 <h2>Why Is It Considered a "Golden Age"?</h2>
-<p>The Neolithic Revolution is deemed "Golden" because it brought transformative changes that allowed for surplus food production, leading to population booms and the specialization of labor. It facilitated monumental innovations such as pottery, textiles, and metallurgy. The domestication of plants and animals not only provided a stable food supply but also influenced human genetics and social structures.</p>
+<p>The Neolithic Revolution is deemed "Golden" because it brought transformative changes that allowed for food production, leading to populations increasings and the specialization of labor. It facilitated monumental innovations such as pottery, textiles, and metallurgy. The domestication of plants and animals not only provided a stable food supply but also influenced human genetics and social structures.</p>
+<img src="Agri.jpg" alt="Early Neolithic farming practices">
 <p>However, this era was not universally golden. Sedentary life introduced new social hierarchies, increased susceptibility to disease, and conflicts over resources. Additionally, in some regions, hunter-gatherer societies maintained sustainable lifestyles well into the agricultural age, questioning the assumption that farming was universally superior.</p>
 
 <h2>Examination of Contributions and Counterarguments</h2>
